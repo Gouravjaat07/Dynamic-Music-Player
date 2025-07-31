@@ -6,8 +6,8 @@ A sleek, modern, and fully-featured Music Player Web Application built with HTML
 
 🚀 Features
 
-▶ Play / Pause.
-⏭ Next / Previous track.
+- Play / Pause.
+- Next / Previous track.
 🔁 Repeat mode.
 🔀 Shuffle mode.
 🔊 Volume control with smooth slider.
