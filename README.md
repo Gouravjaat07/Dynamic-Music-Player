@@ -25,7 +25,7 @@ A sleek, modern, and fully-featured Music Player Web Application built with HTML
 
 - HTML5 – Structure and layout
 - CSS3 – Styling, animations, and responsiveness
-- JavaScript – Audio API, interactivity, and control logic
+- JavaScript – Audio API, interactivity, control logic and Local Storage.
 
 🎯 Learning Outcomes
 
