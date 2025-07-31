@@ -6,15 +6,15 @@ A sleek, modern, and fully-featured Music Player Web Application built with HTML
 
 🚀 Features
 
-▶ Play / Pause.
-⏭ Next / Previous track.
-🔁 Repeat mode.
-🔀 Shuffle mode.
-🔊 Volume control with smooth slider.
-⏱ Interactive seekbar with progress tracking.
-📀 Animated album art and rotating disc.
-📃 Dynamic song title and artist info.
-📱 Responsive layout – works on mobile and desktop.
+▶ Play / Pause,
+⏭ Next / Previous track,
+🔁 Repeat mode,
+🔀 Shuffle mode,
+🔊 Volume control with smooth slider,
+⏱ Interactive seekbar with progress tracking,
+📀 Animated album art and rotating disc,
+📃 Dynamic song title and artist info,
+📱 Responsive layout – works on mobile and desktop,
 🎨 Modern & clean user interface.
 
 
