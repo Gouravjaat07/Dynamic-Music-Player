@@ -21,7 +21,7 @@ A sleek, modern, and fully-featured Music Player Web Application built with HTML
 📸 Preview
 
 
-🛠 Tech Stack
+🛠 Tech Stacks
 
 - HTML5 – Structure and layout
 - CSS3 – Styling, animations, and responsiveness
@@ -37,5 +37,4 @@ A sleek, modern, and fully-featured Music Player Web Application built with HTML
 - Responsive Design – Made the player mobile-friendly.
 - DOM & Events – Practiced JavaScript DOM handling and user events.
 - Clean Code – Wrote structured, reusable, and modular JS code.
-
 
