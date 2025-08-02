@@ -17,9 +17,9 @@ A sleek, modern, and fully-featured Music Player Web Application built with HTML
 📱 Responsive layout – works on mobile and desktop,
 🎨 Modern & clean user interface.
 
+📸 Demo
 
-📸 Preview
-
+https://github.com/user-attachments/assets/c82432f2-f54b-4627-af4d-e379b447b1db
 
 🛠 Tech Stacks
 
