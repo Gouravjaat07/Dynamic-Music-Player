@@ -2,7 +2,7 @@
 
 🎵 Dynamic Music Player
 
-A sleek, modern, and fully-featured Music Player Web Application built with HTML, CSS, and JavaScript. It supports all essential controls including volume, repeat, shuffle, and an animated, responsive UI.
+A sleek, modern, and fully-featured Music Player Web Application built with HTML, CSS, and JavaScript. It supports all essential controls including volume, repeat, shuffle, and an animated, responsive UI
 
 🚀 Features
 
